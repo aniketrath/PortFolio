@@ -16,10 +16,10 @@ const projects = [
     {
         id: 2,
         Title: "Cryptos",
-        About: "A Full scale Project based on React & Django frameworks. Also scalable on Docker / Kubernetes . The application is based on the idea to create an platform to compare Cryptocurrencies and NFTs.",
+        About: "A Full scale Project based on React & Django frameworks. Also scalable on Docker  . The application is based on the idea to create an platform to compare Cryptocurrencies and NFTs.",
         Link: 'https://github.com/aniketrath/cryptos_',
         Image: Cryptos,
-        tags: ["React.js", "Django", "Docker", "Kubernetes"]
+        tags: ["React.js", "Django", "Docker"]
 
     },
     {
